@@ -3,7 +3,13 @@ public class Display {
         // คำสั่งแสดงผลทางจอภาพ
         System.out.println("The student is");  //แสดงผลทางจอภาพแล้วขึ้นบรรทัดใหม่
         System.out.print("Prommin ");  //แสดงผลทางจอภาพปกติ
-        System.out.print("Bkpสา");
+        System.out.print("Bkp");
+
+         /*
+           แสดงผลข้อความทางจอภาพ
+           1. แบบขึ้นบรรทัดใหม่
+           2. แบบไม่ขึ้นบรรทัดใหม่
+         */
 
 
         
