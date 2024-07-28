@@ -1,8 +1,9 @@
 public class Display {
     public static void main(String[] args) {
-        System.out.println("The student is");
-        System.out.print("Prommin ");
-        System.out.print("Bkp");
+        // คำสั่งแสดงผลทางจอภาพ
+        System.out.println("The student is");  //แสดงผลทางจอภาพแล้วขึ้นบรรทัดใหม่
+        System.out.print("Prommin ");  //แสดงผลทางจอภาพปกติ
+        System.out.print("Bkpสา");
 
 
         
