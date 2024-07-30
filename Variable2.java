@@ -6,5 +6,6 @@ public class Variable2 {
         num2 = 15;
         System.out.println("ค่าตัวเลขที่ 1 = "+num1);  //แสดงผล num1
         System.out.println("ค่าตัวเลขที่ 2 = "+num2);  //แสดงผล num2 
+                                  //เอา string มาต่อกันด้วย "+"
     }
 }
